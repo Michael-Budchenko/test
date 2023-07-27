@@ -1,0 +1,15 @@
+.popup {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(240, 248, 246, 1);
+  top: 0;
+  left: 0;
+}
+.popup__body {
+  height: 9.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 11.25rem;
+}
